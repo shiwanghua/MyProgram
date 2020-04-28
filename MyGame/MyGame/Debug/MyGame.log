@@ -1,0 +1,6 @@
+﻿  Main.cpp
+g:\mygame\mygame\main.cpp(336): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+g:\mygame\mygame\main.cpp(339): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  LINK : 没有找到 G:\MyGame\Debug\MyGame.exe 或上一个增量链接没有生成它；正在执行完全链接
+  MyGame.vcxproj -> G:\MyGame\Debug\MyGame.exe
+  MyGame.vcxproj -> G:\MyGame\Debug\MyGame.pdb (Partial PDB)
